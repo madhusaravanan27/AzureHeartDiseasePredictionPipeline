@@ -29,7 +29,8 @@ The following diagram illustrates the architecture used in this project:
    - Data cleaning and missing value imputation.
    - Correlation analysis between features and the target variable.
    - One-hot encoding for categorical variables.
-   - Data transformation for improved model usability.  
+   - Data transformation for improved model usability.
+   - Applied Logistic Regression for classification and evaluated model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
 ✅ The processed dataset was stored in **Azure Data Lake** for further analysis.  
 
 ---
