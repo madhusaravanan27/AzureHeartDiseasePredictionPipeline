@@ -1,5 +1,5 @@
-Heart Disease Prediction with Azure Data Factory and Databricks
-Overview
+*Heart Disease Prediction with Azure Data Factory and Databricks*
+**Overview**
 This project leverages Azure Data Factory (ADF) and Databricks for processing heart disease prediction data. It integrates Azure Blob Storage and PySpark to clean, analyze, and transform data for further predictive modeling.
 
 Project Architecture
