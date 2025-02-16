@@ -6,13 +6,13 @@ This project leverages **Azure Data Factory (ADF)** and **Databricks** for proce
 ## **Technologies Used**
 - **Cloud Services:** Azure Data Factory, Azure Blob Storage, Azure Data Lake
 - **Processing Frameworks:** Databricks, PySpark
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **Storage Format:** Parquet
 
 ## **Project Architecture**
 Below is the architecture of the data pipeline used in this project:
 
-![Project Architecture](images/architecture.png)
+![Project Architecture](Screenshot 2025-01-08 130519.png)
 
 ## **Project Highlights**
 - Configured **Azure Blob Storage** to store raw heart disease data.
